@@ -1,4 +1,5 @@
 # DiscordUsernameAvailabilityChecker
+# Discord changed the API not long after this was released. This probably doesn't work any more.
 A Python script to check if words from a wordlist are available as a Discord username
 
 Discord is changing the way it handles usernames. It is removing the discrimitor and replacing usernames with unique names.  
